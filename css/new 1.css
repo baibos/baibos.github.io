@@ -7,3 +7,7 @@ h1{
 .bg-primary {
     background-color: #0099ad!important;
     background-image: url("https://www.transparenttextures.com/patterns/asfalt-light.png");
+}
+h2  .mb-5 span{
+     color: #0099ad!important
+}
