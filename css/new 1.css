@@ -8,6 +8,9 @@ h1{
     background-color: #0099ad!important;
     background-image: url("https://www.transparenttextures.com/patterns/asfalt-light.png");
 }
+.text-primary{
+	color: #0099ad!important
+}
 h2  .mb-5 span{
      color: #0099ad!important
 }
