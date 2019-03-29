@@ -30,11 +30,11 @@ a {
 	color: #0099ad;
 }
 a:active, a:focus, a:hover {
-	color:#0099ad;
+	color: #0099ad;
 }
 .social-icons a:hover {
-	background-color:#0099ad
+	background-color: #0099ad
 }
 .dev-icons .list-inline-item i:hover {
-	color:#0099ad
+	color: #0099ad
 }
