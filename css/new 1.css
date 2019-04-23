@@ -44,3 +44,6 @@ a:active, a:focus, a:hover {
 .small-text{
 	font-size:1.2rem;
 }
+i .fas fa-music{
+	color: red;
+}
