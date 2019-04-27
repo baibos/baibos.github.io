@@ -24,8 +24,9 @@ h1 .text-primary{
 	letter-spacing: -0.05rem;
 	line-height: 3rem;
 }
-
-
+h2 {
+	color: #0099ad;
+}
 a {
 	color: #0099ad;
 }
