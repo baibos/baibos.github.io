@@ -12,9 +12,7 @@ h1, h2, h3, h4, h5, h6 {
 .text-primary{
 	color: #0099ad!important
 }
-h2  .mb-5 span{
-     color: #0099ad!important
-}
+
 .subheading{
 	font-family: 'Noto Sans TC',sans-serif;
 	font-size: 1.2rem;
@@ -26,6 +24,9 @@ h1 .text-primary{
 	letter-spacing: -0.05rem;
 	line-height: 3rem;
 }
+#sideNav .navbar-nav .nav-item .nav-link{
+	text-transform: none;
+}
 a {
 	color: #0099ad;
 }
@@ -33,20 +34,19 @@ a:active, a:focus, a:hover {
 	color: #0099ad;
 }
 .social-icons a:hover {
-	background-color: #0099ad
+	background-color: #0099ad;
 }
 .dev-icons .list-inline-item i:hover {
-	color: #0099ad
+	color: #0099ad;
 }
-* {
-  box-sizing: border-box;
+.graph_set{
+	margin-top:3rem;
+}
+.small-text{
+	font-size:1.2rem;
 }
 
 
-body {
-  background-color: #0099ad;
-  font-family: Helvetica, sans-serif;
-}
 
 
 .timeline {
