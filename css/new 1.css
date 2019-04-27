@@ -90,7 +90,7 @@ a:active, a:focus, a:hover {
 
 /* Place the container to the left */
 .timeline-left {
-  left: 0;
+  left: 50%;
 }
 
 /* Place the container to the right */
